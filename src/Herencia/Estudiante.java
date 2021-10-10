@@ -23,11 +23,11 @@ public class Estudiante extends Persona{
      Cuando quiero llamar a mi atributos nombre, apellido y edad
      veremos que no se puede porque no pertenece a esta clase por
      lo que tenemos que utilizarlos métodos getter de la
-     clase persona linea 30 - 31 -32.
+     clase persona linea 33 - 34 -35.
      Una vez terminados de poner los datos de la clase persona
      poner los atributos que solo pertenecen a estudiante sin
      usar los getter porque como son de la misma clase podemos
-     ponerlo directo LINEAS 33 y 34.
+     ponerlo directo LINEAS 36 y 37.
       */
      public void mostrardatos(){
          System.out.println("Nombre del estudiante: "+getNombre()+
