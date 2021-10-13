@@ -1,3 +1,3 @@
 # POO_Herencia
 Herencia
-Pimeroa Acercamientos a herencia ejemplo sencillo.
+Pimeros Acercamientos a herencia ejemplo sencillo.
